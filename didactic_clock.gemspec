@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Didactic Clock, this will tell you the time in a verbose form.}
   spec.description   = %q{example 34 minutes past 4 O'clock}
-  spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
